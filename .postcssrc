@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "postcss-font-magician": {
+      "variants": {
+        "Roboto Mono": {
+          "400": []
+        }
+      }
+    }
+  }
+}
